@@ -20,3 +20,7 @@ Perkembangan teknologi yang semakin maju membuat banyaknya berbagai jenis mobil 
 - Dimana konsumen dapat membeli mobil yang diinginkan?
 - Mobil yang telah mendapatkan ijin penjualan di mobilsi sejak kapan?
 - Mengapa peningkatan ijin penjualan mobil harus dilakukan?
+
+# Conclusion
+
+Berdasarkan analisis yang telah dilakukan, jika perusahaan ingin meningkatkan izin penjualan mobil ke pasar sesuai target yang ditentukan, maka mereka yang merilis model dengan tipe bodi dan mesin berupa *cross over* dan *hybrid* harus memperhatikan secara mendalam proses produksi. Hal itu dilakukan karena kedua aspek tersebut memiliki spesifikasi kendaraan paling memengaruhi sulitnya mendapatkan izin penjualan. Kemudian, penjualan mobil tersebar di beberapa kota yaitu Balochistan, Islamabad, KPK, Kashmir, Punjab, Sindh. 
