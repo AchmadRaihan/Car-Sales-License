@@ -27,6 +27,6 @@ Berdasarkan analisis yang telah dilakukan, jika perusahaan ingin meningkatkan iz
 
 # Reference
 
-[Referensi data yang digunakan](https://www.kaggle.com/datasets/mohidabdulrehman/ultimate-car-price-prediction-dataset)
+[Data Reference](https://www.kaggle.com/datasets/mohidabdulrehman/ultimate-car-price-prediction-dataset)
 
 [Dashboard](https://public.tableau.com/views/h8dsft_Milestone1_Achmad_Raihan/CarsSaleTotal?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
