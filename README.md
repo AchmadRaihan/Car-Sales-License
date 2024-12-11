@@ -24,3 +24,9 @@ Perkembangan teknologi yang semakin maju membuat banyaknya berbagai jenis mobil 
 # Conclusion
 
 Berdasarkan analisis yang telah dilakukan, jika perusahaan ingin meningkatkan izin penjualan mobil ke pasar sesuai target yang ditentukan, maka mereka yang merilis model dengan tipe bodi dan mesin berupa *cross over* dan *hybrid* harus memperhatikan secara mendalam proses produksi. Hal itu dilakukan karena kedua aspek tersebut memiliki spesifikasi kendaraan paling memengaruhi sulitnya mendapatkan izin penjualan. Kemudian, penjualan mobil tersebar di beberapa kota yaitu Balochistan, Islamabad, KPK, Kashmir, Punjab, Sindh. 
+
+# Reference
+
+[Referensi data yang digunakan](https://www.kaggle.com/datasets/mohidabdulrehman/ultimate-car-price-prediction-dataset)
+
+[Dashboard](https://public.tableau.com/views/h8dsft_Milestone1_Achmad_Raihan/CarsSaleTotal?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
