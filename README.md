@@ -1,19 +1,17 @@
-# Identifikasi Masalah
-
-<h3><b>Topik Permasalahan</b></h3>
+# Topik Permasalahan
 
 Izin penjualan mobil
 
-<h3><b>Problem Statement</b></h3>
+# Problem Statement
 
 Tujuan proyek ini yaitu peningkatan izin penjualan mobil sampai 80% yang dapat dijual di pasar telah sesuai standar dengan cara memperhatikan tipe bodi, transmisi, perakitan, warna, lokasi, dan tipe mesin sehingga memperbanyak unit yang dijual pada akhir tahun 2024.
 
-<h3><b>Latar Belakang</b></h3>
+# Background
 
 Perkembangan teknologi yang semakin maju membuat banyaknya berbagai jenis mobil yang berkeliaran. Mobil tersebut dijual dengan berbagai spesifikasi yang menarik minat para konsumen. Meskipun begitu, Perusahaan seringkali meremehkan proses izin penjualan yang dapat menimbulkan berbagai hal negatif terjadi. Oleh karena itu, perlu adanya peningkatan izin penjualan mobil sampai 80% yang dapat dijual di pasar telah sesuai standar pada akhir tahun 2024.
 
 
-<h3><b>Penjabaran Masalah</b></h3>
+# Problem Analysis
 
 - Apa faktor yang memengaruhi ijin penjualan mobil?
 - Mobil seperti apa yang dapat dibeli oleh konsumen?
